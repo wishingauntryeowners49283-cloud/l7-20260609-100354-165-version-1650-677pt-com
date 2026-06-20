@@ -1,0 +1,10 @@
+{
+  "site_name": "日韩影视网",
+  "movie_count": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "html_pages": 2014,
+  "source": "data_2000.txt",
+  "cover_rule": "top-level 1.jpg to 150.jpg referenced cyclically",
+  "generated_files_are_static": true
+}
